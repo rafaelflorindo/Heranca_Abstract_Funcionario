@@ -1,0 +1,1 @@
+# Heranca_Abstract_Funcionario
