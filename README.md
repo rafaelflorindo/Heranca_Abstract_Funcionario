@@ -19,8 +19,21 @@ Simular um sistema de cadastro de funcionários utilizando herança com classes 
 
 ## 🧱 Estrutura do Projeto
 
-Heranca_Abstract_Funcionario/ │ ├── src/ │ └── funcionarios/ │ ├── Funcionario.java // Classe abstrata │ ├── Gerente.java // Subclasse concreta │ ├── Programador.java // Subclasse concreta │ └── Main.java // Classe principal para execução │ ├── LICENSE └── README.md
-
+```
+Heranca_Abstract_Funcionario/ 
+│ ├── src/
+│ └── funcionarios/
+│ ├── Funcionario.java
+// Classe abstrata
+│ ├── Gerente.java
+// Subclasse concreta
+│ ├── Programador.java
+// Subclasse concreta
+│ └── Main.java
+// Classe principal para execução
+│ ├── LICENSE
+└── README.md
+```
 
 ## 🔍 Conceitos Aplicados
 
