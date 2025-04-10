@@ -55,3 +55,5 @@ Heranca_Abstract_Funcionario/
 
 📌 Observações
 Este projeto faz parte de uma sequência de exercícios práticos realizados em sala de aula na disciplina de Programação Orientada a Objetos. Outros exemplos estão disponíveis no meu perfil do GitHub.
+
+Desenvolvido por Rafael Florindo - 2025 ✨
